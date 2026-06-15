@@ -6,22 +6,15 @@ public class pontos : MonoBehaviour
 {
     public int pontuacao;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public AudioSource audioS;
+    public AudioClip[] Sounds;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
        if (collision.gameObject.tag == "pontuacao")
         {
+            audioS.clip = Sounds[0];
+            audioS.Play();
             Destroy(collision.gameObject);
             pontuacao++;
             pontosnatela.ponto.pontuacao = pontuacao;
