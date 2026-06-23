@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Fase 1.unity
     guid: 3da4890faafe4a446968e47d4482ab04
   - enabled: 1
-    path: Assets/Scenes/Vitoria1.unity
-    guid: d6bcb21f45914404184cff29dcc3bda1
-  - enabled: 1
     path: Assets/Scenes/Fase 2.unity
     guid: 7200877f71696d34186f351fcfd4a312
+  - enabled: 1
+    path: Assets/Scenes/Vitoria1.unity
+    guid: d6bcb21f45914404184cff29dcc3bda1
   - enabled: 1
     path: Assets/Scenes/Vitoria2.unity
     guid: 112614a106406604885199dcdfc8ba28
