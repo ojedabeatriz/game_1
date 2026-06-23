@@ -9,12 +9,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Fase 1.unity
     guid: 3da4890faafe4a446968e47d4482ab04
   - enabled: 1
-    path: Assets/Scenes/Vitoria.unity
+    path: Assets/Scenes/Vitoria1.unity
     guid: d6bcb21f45914404184cff29dcc3bda1
   - enabled: 1
-    path: Assets/Scenes/MenuGameOver.unity
+    path: Assets/Scenes/Fase 2.unity
+    guid: 7200877f71696d34186f351fcfd4a312
+  - enabled: 1
+    path: Assets/Scenes/Vitoria2.unity
+    guid: 112614a106406604885199dcdfc8ba28
+  - enabled: 1
+    path: Assets/Scenes/MenuGameOver1.unity
     guid: 684515c821d8586488df3d7028f5d8e6
   - enabled: 1
-    path: Assets/Scenes/Menuprincipal.unity
-    guid: 2586d25e68136984781fe091bc4a0f63
+    path: Assets/Scenes/MenuGameOver2.unity
+    guid: 615db67826b94034ea2e591baf16c7f2
+  - enabled: 1
+    path: Assets/Scenes/Capa.unity
+    guid: 909713912c050574fa0e43855c480d8d
   m_configObjects: {}
