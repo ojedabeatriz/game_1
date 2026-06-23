@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Capa.unity
+    guid: 909713912c050574fa0e43855c480d8d
+  - enabled: 1
     path: Assets/Scenes/Fase 1.unity
     guid: 3da4890faafe4a446968e47d4482ab04
   - enabled: 1
@@ -23,7 +26,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MenuGameOver2.unity
     guid: 615db67826b94034ea2e591baf16c7f2
-  - enabled: 1
-    path: Assets/Scenes/Capa.unity
-    guid: 909713912c050574fa0e43855c480d8d
   m_configObjects: {}
